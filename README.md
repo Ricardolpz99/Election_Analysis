@@ -6,11 +6,13 @@ An audit results of congressional election provided by Colorado Board of Electio
 - The county with the highest number of votes was Denver with a total of 306,055 (82.8%).
 - Of the congressional candidates, Diana DeGette had 272,892 (73.8%) votes, while Charles Casper Stockham received 85,213 (23.0%) and Raymon Anthony 11,606 (3.1%) votes.
 - Diana DeGette won with 272,892 (73.8%)
-###Figure 1
+### Figure 1
+![Election_results_data](path/to/Election_results_data.png). 
 
 ## Election-Audit Summary
 The code made in such a way that a large amount of data can be analyzed without affecting its operation, this is because the code is designed with for loops.
 In the same way, the program allows you to automatically determine who was the winner of the elections regardless of the number of candidates and counties in the election, this is because conditionals are used within the code.
-###Figure 2
-
+### Figure 2
+![For_example](path/to/For_example.png). ![If_example](path/to/If_example.png).
+----
 Finally, this code can be reused by the electoral committee for different electoral campaigns or to carry out opinion polls where only certain options can be selected.
